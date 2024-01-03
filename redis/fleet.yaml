@@ -1,0 +1,4 @@
+helm:
+  repo: https://github.com/pratikjagrut/test-fleet.git
+  release: release1
+  
