@@ -1,4 +1,3 @@
 helm:
   chart: git@github.com:pratikjagrut/test-fleet.git
-  release: release1
   
