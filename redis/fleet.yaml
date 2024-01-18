@@ -1,3 +1,3 @@
 helm:
-  chart: git@github.com:pratikjagrut/test-fleet.git
+  chart: git@github.com:rancher/fleet-examples//single-cluster/helm
   
