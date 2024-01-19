@@ -1,4 +1,4 @@
 defaultNamespace: default
 helm:
-  chart: git::http://github.com/rancher/fleet-examples//single-cluster/helm#test-simple
+  chart: git::http://github.com/rancher/fleet-examples//single-cluster/helm?ref=test-simple
   
