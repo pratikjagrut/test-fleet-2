@@ -1,5 +1,4 @@
 defaultNamespace: default
 helm:
-  chart: git@github.com:rancher/fleet-examples//single-cluster/helm
-  releaseName: release-1
+  chart: git@github.com:rancher/fleet-examples//single-cluster/helm#master
   
